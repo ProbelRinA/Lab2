@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b56c3eb-910f-4071-8915-5a2059a57ac3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2.iml" afterDir="false" />
+    <list default="true" id="3b56c3eb-910f-4071-8915-5a2059a57ac3" name="Changes" comment="Zadanie 2">
       <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Conversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +46,12 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "D:/InteliJ/Lab2/src/Main.java",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,22 +62,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701447035381</updated>
-      <workItem from="1701447036482" duration="7854000" />
+      <workItem from="1701447036482" duration="8354000" />
     </task>
+    <task id="LOCAL-00001" summary="Lab 2">
+      <option name="closed" value="true" />
+      <created>1701455343312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701455343312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab 2" />
+    <MESSAGE value="Zadanie 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 2" />
   </component>
 </project>
