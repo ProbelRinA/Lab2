@@ -1,10 +1,12 @@
 public class Book
 {
+    //Tworzymy obiekty klasy
     private String title;
     private String author;
     private int numberofpages;
     private double cost;
 
+    //Tworzymy skielet klasy
     public Book (String title, String author, int numberofpages, double cost)
     {
         this.title=title;
@@ -13,6 +15,7 @@ public class Book
         this.cost=cost;
     }
 
+    //Tworzymy metodę wypisywania cech obiektu
     public void print()
     {
 
@@ -24,6 +27,7 @@ public class Book
 
     public static void main(String[] args)
     {
+        //Tworzymy nowy obiekt klasy i wypisujemy go za pomocą metody print
         Book b1=new Book("Hero's name", "Julia Green", 430, 220.59);
         b1.print();
     }
