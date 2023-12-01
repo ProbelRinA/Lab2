@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b56c3eb-910f-4071-8915-5a2059a57ac3" name="Changes" comment="Zadanie 2">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversion.java" afterDir="false" />
+    <list default="true" id="3b56c3eb-910f-4071-8915-5a2059a57ac3" name="Changes" comment="Zadania 4 i 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701447035381</updated>
-      <workItem from="1701447036482" duration="8354000" />
+      <workItem from="1701447036482" duration="10463000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 2">
       <option name="closed" value="true" />
@@ -72,15 +70,74 @@
       <option name="project" value="LOCAL" />
       <updated>1701455343312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zadanie 2">
+      <option name="closed" value="true" />
+      <created>1701455658923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701455658923</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Zadanie 3">
+      <option name="closed" value="true" />
+      <created>1701455719311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701455719311</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Zadanie 4 i 5">
+      <option name="closed" value="true" />
+      <created>1701455741923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701455741923</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab 2">
+      <option name="closed" value="true" />
+      <created>1701455761226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701455761226</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Zadanie 3">
+      <option name="closed" value="true" />
+      <created>1701457021390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701457021390</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Zadanie 3">
+      <option name="closed" value="true" />
+      <created>1701457051952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701457051952</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Zadania 4 i 5">
+      <option name="closed" value="true" />
+      <created>1701457574548</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701457574548</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab 2" />
     <MESSAGE value="Zadanie 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 2" />
+    <MESSAGE value="Zadanie 4 i 5" />
+    <MESSAGE value="Lab 2" />
+    <MESSAGE value="Zadanie 3" />
+    <MESSAGE value="Zadania 4 i 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadania 4 i 5" />
   </component>
 </project>
